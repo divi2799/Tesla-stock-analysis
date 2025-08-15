@@ -90,4 +90,3 @@ The solution is integrated with **Google Cloud Platform (BigQuery, Vertex AI, Cl
 
 ## 8. Conclusion
 This project successfully demonstrates the use of **time series forecasting (ARIMA, Prophet, LSTM)** integrated with **Google Cloud Platform** for deployment and monitoring.  
-The solution empowers traders and financial analysts with **scalable, automated, and interpretable forecasting**, improving decision-making and risk management for volatile stocks like Tesla.  
